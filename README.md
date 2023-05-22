@@ -1,3 +1,3 @@
-# Diamond_Prices_Prediction
+# Diamond Prices Prediction
 #### Predicting diamond prices based on the diamond's properties : carat, cut, color, clarity, depth, table, x, y, z (dimensions).
-#### Using Ridge, Lasso, Knn, RandomForest.
+#### Trying Ridge, Lasso, Knn, RandomForest.
